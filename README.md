@@ -25,10 +25,10 @@
 ### Проекты
 Тут перечислены некоторые из моих проектов:
 
-  https://github.com/Omirkhon/share-it
+  https://github.com/Omirkhon/share-it - Java/Spring приложение с микросервисной архитектурой и Docker-композицией, реализующее функционал совместного использования ресурсов.
 
-  https://github.com/Omirkhon/afisha
+  https://github.com/Omirkhon/afisha - Java/Spring приложение для управления и взаимодействия с событиями, пользователями и рейтингами.
 
-  https://github.com/Omirkhon/filmorate
+  https://github.com/Omirkhon/filmorate - Java приложение, цель которого — реализовать систему рекомендаций и оценок фильмов на базе Spring.
 
-  https://github.com/Omirkhon/university-management-system
+  https://github.com/Omirkhon/university-management-system - сервис для управления университетскими операциями (пользователи, курсы, зачисление) с JWT-авторизацией и ролями.
