@@ -10,7 +10,7 @@
 - Эл. почта: am.turgimbaev@gmail.com
 
 ### Навыки:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,git,github,postman,powershell,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,hibernate,git,github,postman,mongodb&theme=light)](https://skillicons.dev)
 
 ### Проекты
 Тут перечислены некоторые из моих проектов:
