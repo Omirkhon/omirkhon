@@ -1,12 +1,20 @@
-## Амирхан Тургимбаев 
-### Бэкенд-разработчик
+<div align="center">
 
----
+## Амирхан Тургимбаев 
+## Бэкенд-разработчик
+
+</div>
+
+<div align="center">
 
 ### Навыки:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,hibernate,git,postman,mongodb,firebase&theme=light)](https://skillicons.dev)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Контакты:
 <p>
@@ -23,16 +31,20 @@
   </a>
 </p>
 
+</div>
+
 ---
 
-### Статистика:
+<div align="center">
+
 ![Stats](https://github-readme-stats-iota-ten-20.vercel.app/api?username=Omirkhon&show_icons=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true)
 ![Top Langs](https://github-readme-stats-iota-ten-20.vercel.app/api/top-langs/?username=Omirkhon&layout=compact&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=true)
+
+</div>
 
 ---
 
 ### Проекты
-Тут перечислены некоторые из моих проектов:
 
 [share-it](https://github.com/Omirkhon/share-it) - Java/Spring приложение с микросервисной архитектурой и Docker-композицией, реализующее функционал совместного использования ресурсов.
 
