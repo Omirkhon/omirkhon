@@ -38,7 +38,7 @@
 <div align="center">
 
 ![Stats](https://github-readme-stats-iota-ten-20.vercel.app/api?username=Omirkhon&show_icons=true&bg_color=0f0c29&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true)
-![Top Langs](https://github-readme-stats-iota-ten-20.vercel.app/api/top-langs/?username=Omirkhon&layout=donut&bg_color=0f0c29&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&hide_border=true&langs_count=6&hide=cmake,makefile)
+![Top Langs](https://github-readme-stats-iota-ten-20.vercel.app/api/top-langs/?username=Omirkhon&layout=donut&bg_color=0f0c29&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&hide_border=true&langs_count=5&hide=cmake,makefile,html)
 
 </div>
 
