@@ -37,7 +37,9 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Omirkhon&hide_border=true&background=0f0c29&ring=ff00ff&fire=ff00ff&currStreakLabel=ff00ff&currStreakNum=ffff00&sideLabels=00ffff&sideNums=ffff00&dates=00ffff&stroke=ff00ff)
-![Top Langs](https://github-readme-stats-iota-ten-20.vercel.app/api/top-langs/?username=Omirkhon&layout=donut&bg_color=0f0c29&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&hide_border=true&langs_count=5&hide=cmake,makefile,html)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Omirkhon&hide_border=true&background=0f0c29&ring=ff00ff&fire=ff00ff&currStreakLabel=ff00ff&currStreakNum=ffff00&sideLabels=00ffff&sideNums=ffff00&dates=00ffff&stroke=ff00ff" width="48%" />
+  <img src="https://github-readme-stats-iota-ten-20.vercel.app/api/top-langs/?username=Omirkhon&layout=donut&bg_color=0f0c29&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&hide_border=true&langs_count=5&hide=cmake,makefile,html" width="31%" />
+</p>
 
 </div>
